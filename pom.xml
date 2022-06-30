@@ -10,7 +10,7 @@
 	<packaging>pom</packaging>
 
 	<properties>
-		<komma.version>1.6.1</komma.version>
+		<komma.version>1.6.2</komma.version>
 	</properties>
 
 	<build>
